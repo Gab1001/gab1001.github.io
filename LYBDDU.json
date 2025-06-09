@@ -277,17 +277,5 @@
     "halfpriceY1": "3.2",
     "priceY2": "4.7",
     "halfpriceY2": "2.4"
-  },
-  {
-    "number": 17,
-    "route": "955",
-    "destZ": "背沙邨",
-    "destY": "背沙邨",
-    "maxPZ": "1",
-    "priceZ1": "24.4",
-    "halfpriceZ1": "12.2",
-    "maxPY": "1",
-    "priceY1": "24.4",
-    "halfpriceY1": "12.2"
   }
   ]
